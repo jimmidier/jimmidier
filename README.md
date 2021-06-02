@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋  
+  
+- 🔭 I’m currently working on https://www.ssw.com.au
+- 🌱 I’m currently learning .NET, Azure, Angular
+- 📫 How to reach me: @jimzhengssw
+- 😄 Pronouns: He/him  
+
+[![Jim's github stats](https://github-readme-stats.vercel.app/api?username=jimmidier&theme=dark)](https://github.com/jimmidier/github-readme-stats)
 
 <!--
 **jimmidier/jimmidier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
