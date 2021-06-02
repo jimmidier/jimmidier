@@ -2,8 +2,8 @@
   
 - 🔭 I’m currently working on https://www.ssw.com.au
 - 🌱 I’m currently learning .NET, Azure, Angular
+- 💬 Ask me about .NET, Abp
 - 📫 How to reach me: @jimzhengssw
-- 😄 Pronouns: He/him  
 
 [![Jim's github stats](https://github-readme-stats.vercel.app/api?username=jimmidier&theme=dark)](https://github.com/jimmidier/github-readme-stats)
 
