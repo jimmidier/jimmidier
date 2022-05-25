@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning .NET, Azure, Angular
 - 💬 Ask me about .NET, Abp
 - 📫 How to reach me: @jimzhengssw
+- 📃 I blog here: https://jimzheng.com
 
 [![Jim's github stats](https://github-readme-stats.vercel.app/api?username=jimmidier&theme=dark)](https://github.com/jimmidier/github-readme-stats)
 
