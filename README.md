@@ -6,7 +6,9 @@
 - 📫 How to reach me: @jimzhengssw
 - 📃 I blog here: https://jimzheng.com
 
-[![Jim's github stats](https://github-readme-stats.vercel.app/api?username=jimmidier&theme=dark)](https://github.com/jimmidier/github-readme-stats)
+![Jim's github stats](https://github-readme-stats.vercel.app/api?username=jimmidier&theme=dracula&show_icons=true&hide_border=true&count_private=true)  
+![Jim's github stats](https://github-readme-streak-stats.herokuapp.com/?user=jimmidier&theme=dracula&hide_border=true)  
+![jimmidier's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmidier&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 <!--
 **jimmidier/jimmidier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
