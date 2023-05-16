@@ -1,10 +1,12 @@
 ### Hi there 👋  
   
-- 🔭 I’m currently working on https://www.ssw.com.au
-- 🌱 I’m currently learning .NET, Azure, Angular
-- 💬 Ask me about .NET, Abp
-- 📫 How to reach me: @jimzhengssw
+- 🔭 I’m currently working on [SSW Website](https://github.com/SSWConsulting/SSW.Website-v3)
+- 🌱 I’m currently learning Azure, Power Platform, Dynamics 365, C++, Blender, Unreal Engine, Blockchain
+- 💬 Ask me about anything!
+- 📫 How to reach me: [@jimmidier](https://github.com/jimmidier)
 - 📃 I blog here: https://jimzheng.com
+
+[![My Skills](https://skillicons.dev/icons?i=azure,dotnet,angular,react,css,bots,electron,github,html,js,ts,nestjs,tailwind)](https://skillicons.dev)
 
 ![Jim's github stats](https://github-readme-stats.vercel.app/api?username=jimmidier&theme=dracula&show_icons=true&hide_border=true&count_private=true)  
 ![Jim's github stats](https://github-readme-streak-stats.herokuapp.com/?user=jimmidier&theme=dracula&hide_border=true)  
