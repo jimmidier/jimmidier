@@ -1,6 +1,6 @@
 ### Hi there 👋  
   
-- 🔭 I’m currently working on [SSW Website](https://github.com/SSWConsulting/SSW.Website-v3)
+- 🔭 I’m currently working at [SSW Consulting](https://www.ssw.com.au)
 - 🌱 I’m currently learning Azure, Power Platform, Dynamics 365, C++, Blender, Unreal Engine, Blockchain
 - 💬 Ask me about anything!
 - 📫 How to reach me: [@jimmidier](https://github.com/jimmidier)
