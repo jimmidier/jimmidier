@@ -1,7 +1,7 @@
 ### Hi there 👋  
   
 - 🔭 I’m currently working at [SSW Consulting](https://www.ssw.com.au)
-- 🌱 I’m currently learning Azure, Power Platform, Dynamics 365, Dart, C++, Blender, Unreal Engine, Blockchain
+- 🌱 I’m currently learning Azure, Power Platform, Dynamics 365, Dart, Rust, C++, Blender, Unreal Engine, Blockchain
 - 💬 Ask me about anything! I'd love to join your journey seeking truth.
 - 📫 How to reach me: [@jimmidier](https://github.com/jimmidier)
 - 📃 I blog here: https://jimzheng.com
