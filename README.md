@@ -1,12 +1,12 @@
 ### Hi there 👋  
   
 - 🔭 I’m currently working at [SSW Consulting](https://www.ssw.com.au)
-- 🌱 I’m currently learning Azure, Babel, DevOps, Rust
+- 🌱 I’m currently learning Azure, Kubernetes, DevOps
 - 💬 Ask me about anything! I'd love to join your journey seeking truth.
 - 📫 How to reach me: [@jimmidier](https://github.com/jimmidier)
 - 📃 I blog here: https://jimzheng.com
 
-[![My Skills](https://skillicons.dev/icons?i=azure,dotnet,docker,angular,react,nextjs,bots,github,js,ts,dart,reactivex,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,dotnet,docker,kubernetes,elasticsearch,angular,react,nextjs,bots,github,gitlab,js,ts,reactivex,tailwind)](https://skillicons.dev)
 
 ![Jim's github stats](https://github-readme-stats.vercel.app/api?username=jimmidier&theme=dracula&show_icons=true&hide_border=true&count_private=true)  
 ![Jim's github stats](https://github-readme-streak-stats.herokuapp.com/?user=jimmidier&theme=dracula&hide_border=true)  
